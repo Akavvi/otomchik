@@ -1,0 +1,17 @@
+{
+  "name": "otomchik-v2",
+  "version": "2.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "Akavi",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "discord.js": "^13.1.0",
+    "mongoose": "^6.1.2"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
